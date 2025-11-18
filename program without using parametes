@@ -1,0 +1,12 @@
+#include<stdio.h>
+int jaibalaya()
+{
+printf("seeni\n");
+printf("rachana\n");
+printf("king\n");
+}
+int main()
+{
+    jaibalaya();
+    
+}
